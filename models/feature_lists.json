@@ -1,0 +1,22 @@
+{
+  "numeric": [
+    "total_sqft",
+    "bhk",
+    "bath",
+    "balcony",
+    "age_years",
+    "distance_to_center_km",
+    "parking_spaces",
+    "rera_approved",
+    "nearby_schools",
+    "nearby_hospitals"
+  ],
+  "categorical": [
+    "city",
+    "locality_tier",
+    "area_type",
+    "furnishing",
+    "facing"
+  ],
+  "target": "price"
+}
