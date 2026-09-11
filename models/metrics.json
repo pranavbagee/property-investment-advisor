@@ -1,8 +1,0 @@
-{
-  "model_name": "GradientBoostingRegressor (sklearn fallback for XGBoost)",
-  "mae_inr": 1275692.9,
-  "mape_pct": 12.52,
-  "r2_score": 0.9555,
-  "n_train": 2400,
-  "n_test": 600
-}
